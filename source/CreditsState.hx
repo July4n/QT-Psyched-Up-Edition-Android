@@ -80,7 +80,10 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			['Android Port'],
+                        ['Qt duet mod jardcore port por'],
+                        ['July4n','c july4n','Hizo algunos cambios al codigo original','https://youtube.com/channel/UCNAe-mX-I647TGBFs4dhUmw', 'FFFFFFFF'],
+                        [''],
+			['Android Port Original'],
 			['Saw (M.A. Jigsaw)','saw','Main Coder','https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ','F73838'],
 			[''],
 			[''],
